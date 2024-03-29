@@ -1,0 +1,23 @@
+{
+  "name": "print-star",
+  "version": "1.0.0",
+  "description": "npm package to print star",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lavneesh27/print-star.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Lavneesh Rajput",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lavneesh27/print-star/issues"
+  },
+  "homepage": "https://github.com/lavneesh27/print-star#readme"
+}
